@@ -32,6 +32,11 @@
 1. Home 
 <img width="1643" height="802" alt="image" src="https://github.com/user-attachments/assets/6752ddfb-e2c6-4a8c-a526-eef76c92ead9" />
 
+2. SkyMap
+
+<img width="1867" height="910" alt="image" src="https://github.com/user-attachments/assets/c0b6db12-d4e3-4921-86e2-0219e40ecc8f" />
+
+
 ---
 
 ## 🚀 Getting Started
