@@ -44,10 +44,14 @@
 ### 📦 Installation
 # Backend setup
 cd backend
+</br>
 npm install
+</br>
 npm run server
 
 # Frontend setup
 cd ../frontend
+</br>
 npm install
+</br>
 npm start
