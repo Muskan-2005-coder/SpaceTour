@@ -39,8 +39,6 @@
 
 ---
 
-## 🚀 Getting Started
-
 ### 📦 Installation
 # Backend setup
 cd backend
